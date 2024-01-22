@@ -1,17 +1,27 @@
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
+
 public class Main {
     public static void main(String[] args) {
-        // Press Alt+Enter with your caret at the highlighted text to see how
-        // IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+//........................object and classes....................................
+        //        Child chil=new Child();
+//                chil.color="red";
+//                chil.model="samsung";
+//                chil.call();
+//
+//        Child child1=new Child();
+//                 child1.model="apple";
+//                 child1.call();
 
-        // Press Shift+F10 or click the green arrow button in the gutter to run the code.
-        for (int i = 1; i <= 5; i++) {
+//...........Constructor..........................
+       /* Constructor con=new Constructor();
+        con.math();*/
 
-            // Press Shift+F9 to start debugging your code. We have set one breakpoint
-            // for you, but you can always add more by pressing Ctrl+F8.
-            System.out.println("i = " + i);
-        }
+//............Constructor_overloading
+
+//        Construcor_overloading over=new Construcor_overloading(20);
+//        Construcor_overloading over1=new Construcor_overloading();
+
+
     }
 }
+
+
